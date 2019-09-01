@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_btn_operation">35dp</dimen>
+    <dimen name="margin_btn_opearation">5dp</dimen>
+    <dimen name="size_edt_number">22sp</dimen>
+    <dimen name="margin_top">30dp</dimen>
+    <dimen name="dimens_5">5dp</dimen>
+    <dimen name="dimens_6">6dp</dimen>
+    <dimen name="dimens_8">8dp</dimen>
+    <dimen name="dimens_10">10dp</dimen>
+    <dimen name="dimens_40">40dp</dimen>
+</resources>
